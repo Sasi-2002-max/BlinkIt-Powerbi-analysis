@@ -29,6 +29,7 @@ Blinkit is a quick-commerce platform offering groceries and daily essentials. Th
 
 <h2>📸 Screenshot</h2>
 <img src="assests/Screenshot (339).png" alt=" Blinkit Sales Analysis - Power BI Dashboard" width="700"/>
+<h2> Insights</h2>
 <img src="Blinkit Insights/Screenshot (327).png" alt=" Blinkit Sales Analysis - Power BI Dashboard" width="700"/>
 <img src="Blinkit Insights/Screenshot (336).png" alt=" Blinkit Sales Analysis - Power BI Dashboard" width="700"/>
 <img src="Blinkit Insights/Screenshot (337).png" alt=" Blinkit Sales Analysis - Power BI Dashboard" width="700"/>
