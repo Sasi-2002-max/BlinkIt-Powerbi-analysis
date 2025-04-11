@@ -28,9 +28,9 @@ Blinkit is a quick-commerce platform offering groceries and daily essentials. Th
 
 
 <h2>📸 Screenshot</h2>
-<img src="assets/screenshot(339).png" alt=" Blinkit Sales Analysis - Power BI Dashboard" width="700"/>
+<img src="assests/Screenshot (339).png" alt=" Blinkit Sales Analysis - Power BI Dashboard" width="700"/>
 
-git add README.md assets/screenshot(339).png
+git add README.md assests/Screenshot (339).png
 git commit -m "Added screenshot and updated README"
 git push origin main
 
